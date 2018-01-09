@@ -25,6 +25,10 @@ span{
     opacity: 0;
     display: inline-block;
     transition: 0.2s linear;
+    -webkit-transition: 0.2s linear;
+    -moz-transition: 0.2s linear;
+    -o-transition: 0.2s linear;
+    -ms-transition: 0.2s linear;
 }
 
 #container{
